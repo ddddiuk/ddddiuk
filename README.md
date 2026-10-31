@@ -1,0 +1,124 @@
+<!---
+z44o/z44o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![](assets/Bottom_up.svg)
+
+<img align="center" src="/assets/header_.png" height="250"/>
+
+<div align="center">
+  <a href="https://github.com/ddddiuk">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=10B981¢er=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+𝖬𝗈𝖧𝖺𝖬𝖾𝖽♭+%F0%9F%91%8B;" alt="Typing SVG" />
+  </a>
+</div>
+
+
+<img align="left" src="/assets/pyro.gif" height="250" width="250px" />
+
+```zsh
+> neofetch
+```
+---
+
+```
+- My Profile
+-------------------------------
+Name: 𝖬𝗈𝖧𝖺𝖬𝖾𝖽♭.
+Gender: Male.
+Location: United Kingdom.
+Loves: Videogames 🎮, Stuff technology 🚀, Programming 👨‍💻.
+Hobbies: Gaming, Coding while I am listening to music 🎶.
+Languages: Python, C++, JS, HTML, CSS, 
+Learning: Machine Learning, Artificial Intelligence.
+Telegram: @ddddi .
+```
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddddiuk)
+[![Telegram](https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram)](https://t.me/ddddi)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alragi.1)
+
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/ddddiuk" target="_blank"><img src="https://komarev.com/ghpvc/?username=ddddiuk&label=Profile%20Visits&style=for-the-badge" alt=""></a>
+</p>
+
+---
+### 🚀 Md Farid – GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
+---
+
+### 🚀 My Tech Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="280">
+      <b>Programming Languages 👨‍💻</b>
+    </td>
+    <td align="center" width="480">
+      <a href="https://github.com/ddddiuk" target="_blank"><img src="https://skillicons.dev/icons?i=cpp,js,python,bash,powershell,matlab" hight="580"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Frontend 🐍</b>
+    </td>
+    <td align="center" hight="280">
+      <a href="https://github.com/ddddiuk" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js" ></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>IDEs Used 🚀</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ddddiuk" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm,vscode" alt=""></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Systems I love ✨</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ddddiuk" target="_blank"><img src="https://skillicons.dev/icons?i=debian,linux,arch,kali,windows" alt=""></a>
+    </td>
+  </tr>
+<tr>
+    <td align="center">
+      <b>Tools ✨</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ddddiuk" target="_blank"><img src="https://skillicons.dev/icons?i=ai,git,bots,docker,flask" alt=""></a>
+    </td>
+  </tr>
+<tr>
+    <td align="center">
+      <b>Portfolio</b>
+    </td>
+    <td align="center">
+      <a href="https://deep.is-a.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=devto" alt=""></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> A Random Developer Quote</h2></summary>
+  <div align="center">
+    <a href="https://github.com/ddddiuk/ddddiuk">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+    </a>
+  </div>
+</details>
+
+---
+
+![](assets/Bottom_down.svg)
